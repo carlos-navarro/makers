@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn on Makers</title>
+    <link>https://pages.github.axa.com/axaes-innovation-office/axaes-makers/categories/learn/</link>
+    <description>Recent content in Learn on Makers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 23:28:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://pages.github.axa.com/axaes-innovation-office/axaes-makers/categories/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Huzzah Overview</title>
+      <link>https://pages.github.axa.com/axaes-innovation-office/axaes-makers/blogs/huzzah/learn/</link>
+      <pubDate>Tue, 31 Oct 2017 23:28:43 -0500</pubDate>
+      
+      <guid>https://pages.github.axa.com/axaes-innovation-office/axaes-makers/blogs/huzzah/learn/</guid>
+      <description> Learn to program the Adafruit Feather HUZZAH ESP8266 using NodeMCU Lua or Arduino IDE at learn.adafruit.com.
+Pinout: </description>
+    </item>
+    
+    <item>
+      <title>Lolin Overview</title>
+      <link>https://pages.github.axa.com/axaes-innovation-office/axaes-makers/blogs/lolin/learn/</link>
+      <pubDate>Tue, 31 Oct 2017 23:28:43 -0500</pubDate>
+      
+      <guid>https://pages.github.axa.com/axaes-innovation-office/axaes-makers/blogs/lolin/learn/</guid>
+      <description> Learn to program the LoLin NodeMcu using NodeMCU Lua or Arduino IDE.
+Pinout: </description>
+    </item>
+    
+  </channel>
+</rss>
